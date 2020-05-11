@@ -1,0 +1,2 @@
+# lab_res_use_analysis
+In this client - server system, we have analyzed whole given problem. In our methodology we are going to connect all government agencies with central authority as the matter of Laboratory (Hardware/Software) Resource Analysis like maintenance and purchase details of hardware and software and laboratory log details. Our system makes transparency and will give best outcome to the government. 
